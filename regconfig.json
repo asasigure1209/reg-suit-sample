@@ -12,7 +12,7 @@
   "plugins": {
     "reg-keygen-git-hash-plugin": {},
     "reg-notify-github-plugin": {
-      "clientId": "MzQ0tDAzNzIz0S9KTdctKC0oSC1JTS3STUnNzdc3MTA0gkiUZVYBAA=="
+      "clientId": "MzY1NLAwMDI20C9KTdctLs0s0S1OzC3ISdU3NDWzsDAwN9JPLE4szkwvLUo1NDKwBAA="
     },
     "reg-publish-s3-plugin": {
       "bucketName": "reg-publish-bucket-9062d550-aa67-4a34-bf9b-d22f71adfb36"

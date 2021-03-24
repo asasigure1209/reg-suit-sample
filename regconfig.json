@@ -2,13 +2,15 @@
   "core": {
     "workingDir": ".reg",
     "actualDir": "screenshot",
+    "thresholdRate": 0,
     "threshold": 0,
     "ximgdiff": {
       "invocationType": "client"
-    }
+    },
+    "addIgnore": true
   },
   "plugins": {
-    "reg-keygen-git-hash-plugin": true,
+    "reg-keygen-git-hash-plugin": {},
     "reg-notify-github-plugin": {
       "clientId": "MzQ0tDAzNzIz0S9KTdctKC0oSC1JTS3STUnNzdc3MTA0gkiUZVYBAA=="
     },
